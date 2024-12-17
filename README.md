@@ -9,9 +9,9 @@
 # 🏗️ Architecture
 
   This project integrates multiple technologies, creating a modular and scalable pipeline for real-time data ingestion, processing, and querying.
-  
+  ![image alt]()
 
-![📊 Architecture Diagram Placeholder - Add your image here!]
+
 
 🛠️ Technologies Used
 Programming Language: 🐍 Python
