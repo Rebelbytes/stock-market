@@ -9,6 +9,7 @@
 # 🏗️ Architecture
 
   This project integrates multiple technologies, creating a modular and scalable pipeline for real-time data ingestion, processing, and querying.
+  
   ![image alt](https://github.com/Rebelbytes/stock-market/blob/2e52b436f75f5af60dbb501464529917caf14b63/Architecture.jpg)
   
 
